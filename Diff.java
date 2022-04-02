@@ -4,5 +4,6 @@ public class Sum{
         int b=6;
 
         System.out.println("The Diff of a and b is"+a-b);
+        System.out.println("This is Aman Kumar");
     }
 }
